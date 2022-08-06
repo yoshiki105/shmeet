@@ -67,4 +67,5 @@
 ## 画面遷移図
 [全体図](https://www.figma.com/file/jER07Xnm4R3EU2xU5PlT7B/%E8%B6%A3%E5%91%B3%E3%82%A2%E3%83%97%E3%83%AA%E7%94%BB%E9%9D%A2%E9%81%B7%E7%A7%BB?node-id=0%3A1)
 
-[スライド形式](https://www.figma.com/proto/jER07Xnm4R3EU2xU5PlT7B/趣味アプリ画面遷移?node-id=2%3A0&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=2%3A0&show-proto-sidebar=1)
+
+## ER図
